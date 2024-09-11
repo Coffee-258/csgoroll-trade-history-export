@@ -1,6 +1,8 @@
 Tampermonkey required to use this script.
 Data is loaded in chunks of 200 trades
 
+Export file is produced in JSON format
+
 How to use:
 
 1. Go to https://www.csgoroll.gg/player/<your_account_id>/trades
